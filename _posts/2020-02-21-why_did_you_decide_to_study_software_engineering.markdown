@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "“Why did you decide to study Software Engineering?”"
-date:       2020-02-21 19:04:52 +0000
+date:       2020-02-21 14:04:53 -0500
 permalink:  why_did_you_decide_to_study_software_engineering
 ---
 
