@@ -1,11 +1,11 @@
 # Site settings
 author: Joseph Choi
-title: 
+title: Joe's Blog
 header-img: img/home-bg.png
 email: jdc07@live.com
 copyright_name: Joseph Choi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Joe
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jaydeecee-cloud
