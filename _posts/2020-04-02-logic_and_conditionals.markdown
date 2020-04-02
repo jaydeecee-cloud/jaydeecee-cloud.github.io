@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "logic and conditionals"
-date:       2020-04-02 19:00:36 +0000
+date:       2020-04-02 15:00:37 -0400
 permalink:  logic_and_conditionals
 ---
 
